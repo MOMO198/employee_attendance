@@ -1,0 +1,2 @@
+[functions.verify-face]
+verify_jwt = true 
