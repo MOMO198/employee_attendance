@@ -147,7 +147,4 @@ Ce projet est développé spécifiquement pour la **SIMDCI-SECURITE**. Toute uti
 
 ---
 *Développé avec ❤️ par l'équipe de développement SIMDCI-SECURITE.*
-```
-
-### 💡 Prochaine étape conseillée :
-Une fois ce fichier collé dans votre `README.md`, n'hésitez pas à remplacer la section **"📸 Captures d'écran"** par de vraies images de votre application (vous pouvez simplement glisser-déposer des images dans l'éditeur GitHub, il générera automatiquement le code Markdown pour vous). Cela rendra votre dépôt beaucoup plus professionnel et attrayant.
+---
